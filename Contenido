@@ -1,0 +1,5 @@
+veterinaria.ts (nombre,dirección,id)
+clientes.ts (nombre,teléfono,s/n vip,id)
+pacientes.ts (nombre,especie,id)
+proveedores.ts (nombre,teléfono,id)
+main.ts (registro,funcionamiento,cuerpo)
