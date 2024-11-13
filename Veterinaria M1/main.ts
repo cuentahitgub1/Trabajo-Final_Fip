@@ -42,6 +42,8 @@ registro.listar();
 
 registro.agregar(cliente3); 
 registro.agregar(paciente3);
+registro.agregar(cliente1); 
+registro.agregar(paciente1);
 
 console.log("\nNuevos clientes y pacientes:");
 registro.listar();
