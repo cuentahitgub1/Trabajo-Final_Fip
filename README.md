@@ -7,4 +7,6 @@ pacientes.ts (nombre,especie,id)
 
 proveedores.ts (nombre,teléfono,id)
 
-main.ts (registro,funcionamiento)
+registro.ts (funcionamiento)
+
+main.ts (cuerpo,prueba)
