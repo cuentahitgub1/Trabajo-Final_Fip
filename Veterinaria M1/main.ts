@@ -29,8 +29,8 @@ registro.agregar(paciente2);
 console.log("");
 registro.listar();
 
-registro.darDeBaja(3);
-registro.darDeBaja(3);
+registro.darDeAlta(3);
+registro.darDeAlta(3);
 
 console.log("\nDespués de dar de alta:");
 registro.listar();
