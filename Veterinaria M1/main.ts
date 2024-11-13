@@ -1,8 +1,9 @@
+import { veterinaria } from './veterinaria';
+import { proveedores } from './proveedores';
 import { clientes } from './clientes';
 import { pacientes } from './pacientes';
-import { proveedores } from './proveedores';
 import { Registro } from './registro';
-import { veterinaria } from './veterinaria';
+
 
 const registro = new Registro();
 
