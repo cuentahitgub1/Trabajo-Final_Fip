@@ -4,7 +4,6 @@ import { clientes } from './clientes';
 import { pacientes } from './pacientes';
 import { Registro } from './registro';
 
-
 const registro = new Registro();
 
 const veterinaria1 = new veterinaria('M1', 'Av.Argentina Calle Messi',10);
